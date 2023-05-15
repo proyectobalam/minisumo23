@@ -29,7 +29,7 @@ Nombre | GPIO
 --- | --- 
 MODO 1 | 27
 MODO 2 | 14
-MODO 3 | Siempre ON
+MODO 3 | 18
 
 ### Otras funciones
 Nombre | GPIO 
